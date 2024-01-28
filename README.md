@@ -21,7 +21,7 @@ This is made by an **ALX student** for **ALX students** who struggle with making
 
 ## Usage
 - ```bash
-	$ python <main.py> <file.py>
+	$ python DocSetter/<main.py> <file.py>
 - *file.py* : name of the module you have the function in that you want to test.
 
 - If you need to add more tests just copy from (::) to the next (::) and past
